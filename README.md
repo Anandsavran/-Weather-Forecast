@@ -1,2 +1,2 @@
 # -Weather-Forecast
-Real -time Weather prediction dashboard
+Real -time Weather prediction dashboard.
