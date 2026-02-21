@@ -12,7 +12,7 @@ This project demonstrates:
 API Data Integration
 
 Data Cleaning & Transformation
-
+ 
 DAX Calculations
 
 Time Intelligence Analysis
