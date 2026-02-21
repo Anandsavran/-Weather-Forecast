@@ -1,6 +1,5 @@
 # 🌦️Weather Forecast
-Real -time Weather prediction dashboard.
-🌦️ Real Weather Analytics Dashboard (Power BI)
+Real time Weather prediction dashboard.
 Project Overview
 
 Real Weather Analytics Dashboard is a data analytics project built using Microsoft Power BI that analyzes real-time and historical weather data fetched from an external API.
