@@ -9,13 +9,9 @@ The dashboard transforms raw JSON weather data into meaningful insights using in
 This project demonstrates:
 
 API Data Integration
-
 Data Cleaning & Transformation
- 
 DAX Calculations
-
 Time Intelligence Analysis
-
 Interactive Dashboard Design
 
 🚀 Live Project Links
