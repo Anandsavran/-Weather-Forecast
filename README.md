@@ -190,5 +190,4 @@ Lovely Professional University
 WeatherAPI.com Documentation
 
 Microsoft Power BI Official Documentation
-
 World Meteorological Organization Standards
