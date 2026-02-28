@@ -150,7 +150,7 @@ Observed precipitation mostly when humidity > 85%
 Real-time API integration allows dynamic reporting
 
 Temperature fluctuations correlate with humidity & wind patterns
-
+ 
 High humidity significantly impacts perceived temperature
 
 Precipitation probability increases after 85% humidity
